@@ -178,9 +178,7 @@ Driving technical excellence & educational innovation
   <br/>
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
   <br/><br/>
-  
-  ![snake animation](https://raw.githubusercontent.com/mohamed23der/mohamed23der/output/github-snake-dark.svg)
-  
+    
 </div>
 
 ---
